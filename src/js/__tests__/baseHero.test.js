@@ -1,4 +1,4 @@
-import Character from '../basicHeroClass';
+import Character from '../baseHero';
 
 test.each([
     ['MyHero', 'Bowman', 10, 10],

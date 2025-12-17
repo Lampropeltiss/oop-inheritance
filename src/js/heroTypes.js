@@ -1,4 +1,4 @@
-import Character from './basicHeroClass.js';
+import Character from './baseHero.js';
 
 export class Bowman extends Character {
     constructor(name) {

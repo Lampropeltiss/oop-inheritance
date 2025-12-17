@@ -5,7 +5,7 @@ import {
     Undead,
     Zombie,
     Daemon
-} from '../heroClasses'
+} from '../heroTypes'
 
 test.each([
     [Bowman, 25, 25],
